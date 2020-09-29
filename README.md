@@ -1,5 +1,7 @@
 # Pokedex
 
+<img src="pokedex.png" alt="Pokedex logo"/>
+
 Simple pokedex game using ReactJS.
 
 ## How to run
